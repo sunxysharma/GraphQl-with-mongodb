@@ -15,13 +15,14 @@ MONGODB_URI='mongodb://localhost:27017/test'
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:4000
 $ yarn start
 
 # build for production and launch server
 $ yarn build
 ```
 
+## Graphql 
 
 ```
 # add cat
