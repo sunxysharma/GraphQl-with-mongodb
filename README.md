@@ -1,5 +1,14 @@
 # GraphQl with mongodb
 
+## Project Setup
+> create .env file
+
+```
+PORT=4000
+MONGODB_URI='mongodb://localhost:27017/test'
+```
+
+
 ## Build Setup
 
 ``` bash
